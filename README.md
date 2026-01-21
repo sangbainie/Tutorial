@@ -7,7 +7,7 @@
 
 ## v2rayN和v2rayNG教程
 
-[Markdown](./Markdown/v2ray.md)
+[Markdown](Markdown/v2ray.md)
 
 
 
