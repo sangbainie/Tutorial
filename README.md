@@ -6,6 +6,7 @@
 2. Word，此类型需要自己下载本仓库中的docx文件，用Word或WPS查看
 
 如何下载本仓库的word文档👇
+暂时搁置
 
 ## v2rayN和v2rayNG教程
 
