@@ -22,4 +22,9 @@
 
 ### Windows重装系统教程
 
-此处正在装修中
+- [Markdown](/Markdown/windows.md)
+- Word装修中
+
+### 其他教程
+
+- 待更新
